@@ -8,4 +8,4 @@
  # 模型框架
   这篇文章里我搭建了含有两个卷积块、一个全连接层的卷积神经网络，用MNISTS数据集搭建网络得到识别图片的正确率
  # 实验结果
-   !
+   !(https://github.com/chenghuiling/hlcheng/commit/bb0c76b71859ac2e734196ad520bfefe20a7945b)
